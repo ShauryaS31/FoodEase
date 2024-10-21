@@ -8,3 +8,4 @@ numpy>=1.24.1
 spoonacular
 google-generativeai
 streamlit==1.0.0
+protobuf==3.20.3
