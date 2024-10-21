@@ -1,0 +1,10 @@
+groq
+python-dotenv
+requests
+pillow
+opencv-python
+pandas
+numpy==1.24.1
+spoonacular
+google-generativeai
+streamlit
